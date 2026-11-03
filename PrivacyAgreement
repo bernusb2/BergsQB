@@ -1,0 +1,61 @@
+# [App Name] Privacy Policy
+
+**Effective date:** [Month Day, Year]
+
+This Privacy Policy explains how [App Name] (the "App"), operated by [Company Name] ("we," "us"), handles data. The App is a private, internal tool that connects only to [Company Name]'s own QuickBooks Online company. See also the [End-User License Agreement](./).
+
+## 1. Data the App accesses
+
+When connected, the App uses Intuit's QuickBooks Online Accounting API (scope `com.intuit.quickbooks.accounting`) to access [Company Name]'s accounting data. Depending on what the App is doing, this may include:
+
+- the chart of accounts, transactions, invoices, bills, payments, and reports [trim this list to what the App actually uses];
+- customer and vendor records, which can contain names, addresses, email addresses, and phone numbers; and
+- the access tokens, refresh tokens, and company ID that Intuit issues so the App can connect.
+
+The App uses only the accounting scope. It does not request payments, payroll, or sign-in identity scopes.
+
+## 2. How we use the data
+
+We use this data only to [describe what the App does, e.g., read and categorize transactions and prepare bookkeeping entries for review]. We do not sell it, use it for advertising, or use it to build profiles of the people it describes.
+
+## 3. Where the data is stored
+
+- The App runs on [where it runs, e.g., a computer controlled by [Company Name], or Amazon Web Services in the [region] region].
+- QuickBooks tokens are stored [encrypted] at [location]. They are never placed in source code or in any public repository.
+- [Choose one: "The App does not keep copies of QuickBooks data after a task finishes." OR "Copies of QuickBooks data are kept at [location] for [period] in order to [reason]."]
+
+## 4. Service providers
+
+We share data only with the services the App needs in order to run:
+
+- **Intuit Inc.** provides QuickBooks Online and its API. Intuit's handling of data is covered by Intuit's own privacy statement.
+- **[Hosting provider]** hosts the App. [Delete this line if the App runs on a computer you control.]
+- **[AI service provider]** receives [what data is sent] in order to [purpose]. [Delete this line if the App doesn't send data to an AI service.]
+
+We may also disclose data when required by law.
+
+## 5. Security
+
+- Connections between the App and Intuit are encrypted with HTTPS/TLS.
+- Access to the App, its credentials, and any stored data is limited to people [Company Name] has authorized.
+- [Add any other measures you use, e.g., multi-factor authentication on the hosting account or disk encryption on the host machine.]
+
+## 6. Retention and deletion
+
+If the App is disconnected from QuickBooks Online, it stops accessing QuickBooks data, and we delete its stored QuickBooks credentials within [number] days [and any stored copies of QuickBooks data within [number] days]. You can also ask us to delete stored data at any time using the contact details below.
+
+## 7. Changes to this policy
+
+We may update this policy from time to time. The effective date at the top shows when it last changed.
+
+## 8. This website
+
+This page is hosted on GitHub Pages. [Company Name] does not collect any data through this website. GitHub may log visits under its own privacy statement.
+
+## 9. Contact
+
+Questions or deletion requests can be sent to:
+
+[Company Name]
+[Email address]
+[Mailing address]
